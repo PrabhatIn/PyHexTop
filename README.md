@@ -13,7 +13,7 @@ Please see the paper: A. Agarwal, A. Saxena, P. Kumar (2023) [PyHexTop: a compac
 For citing the paper, please use the following bibtex format:
 ```
 @article{agarwal2023pyhextop,
-  title={{PyHexTop}: a compact Python code for topology optimization using hexagonal elements},
+  title={{PyHexTop}: a compact {Python} code for topology optimization using hexagonal elements},
   author={Agarwal, Aditi and Saxena, Anupam and Kumar, Prabhat},
   journal={arXiv preprint arXiv:2310.01968},
   year={2023}
